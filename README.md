@@ -1,0 +1,2 @@
+# amplify-app
+static website
